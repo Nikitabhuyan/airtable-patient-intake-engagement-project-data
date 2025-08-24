@@ -2,7 +2,7 @@
 Patient intake and engagement dataset exported from Airtable as CSVs, including intake requests, contact attempts, scheduling status, outcomes, and helper dictionaries. Organized for quick analysis and reporting for an Intake Coordinator workflow.
 # Patient Intake and Engagement Project Data
 
-A clean export of an Airtable base used to track the intake funnel, outreach, scheduling, and outcomes. This repo lets anyone review the process, reproduce simple metrics, and build lightweight reports for an Intake Coordinator workflow at Isaac Health.
+A clean export of an Airtable base used to track the intake funnel, outreach, scheduling, and outcomes. This repo lets anyone review the process, reproduce simple metrics, and build lightweight reports for an Intake Coordinator workflow. All data is synthetic or anonymized and for demo only.
 
 ## What's inside
 
